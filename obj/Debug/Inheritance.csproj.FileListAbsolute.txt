@@ -1,0 +1,8 @@
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
